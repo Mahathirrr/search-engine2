@@ -87,9 +87,9 @@ type PostingList struct {
 
 ```
 .
-├── main.go              # Main application entry
-├── search.go            # Core search implementation
-├── templates/           # HTML templates
+├── main.go             # Main application entry
+├── search.go           # Core search implementation
+├── templates/          # HTML templates
 │   ├── index.html      # Search page template
 │   └── results.html    # Results page template
 └── static/             # Static assets
@@ -101,7 +101,7 @@ type PostingList struct {
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
+git clone github.com/Mahathirrr/search-engine2
 ```
 
 2. Install dependencies
